@@ -1,3 +1,3 @@
-# mcplugin-intellij-maven-starter
+# Blame
 
-this is just a skeleton project for minecraft plugins that i make
+this is the core plugin for the blame server i will be hosting
